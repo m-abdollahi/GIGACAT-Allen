@@ -1,5 +1,5 @@
 # GIGACAT-Allen
 Easy to use Allen Optical Physiology SDK \
 <p align="center">
-![This is an image](img/23SS.jpg)
+  <img width="600" height="200" src="img/23SS.jpg">
 </p>
